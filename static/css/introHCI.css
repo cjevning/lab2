@@ -16,6 +16,16 @@ body {
      padding: 20px;
 }
 
+img {
+     width: 500px;
+     height: 300px;
+}
+
+.container {
+     width: 100%;
+     height: 100%;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
